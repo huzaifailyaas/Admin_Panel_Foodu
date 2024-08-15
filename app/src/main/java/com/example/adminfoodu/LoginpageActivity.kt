@@ -147,6 +147,7 @@ class LoginpageActivity : AppCompatActivity() {
             }
         }
 
+    //For Direct land to Dashboard
     override fun onStart() {
         super.onStart()
         val currentUser=auth.currentUser
