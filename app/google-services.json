@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288286117798",
+    "firebase_url": "https://adminfoodu-8af56-default-rtdb.firebaseio.com",
+    "project_id": "adminfoodu-8af56",
+    "storage_bucket": "adminfoodu-8af56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288286117798:android:3abf150549fefcc4ad4967",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288286117798-lk496ilfp5ruqau5r2a8q1oal1ek86b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminfoodu",
+            "certificate_hash": "ba2da28d355cc00441d8a3ff52e5edf325bea127"
+          }
+        },
+        {
+          "client_id": "288286117798-85ao0396qiavvq1cpi2fvgmg8fhmos8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxmeyOf4DGNKBM1FW8S1XihjYhgpyYUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288286117798-85ao0396qiavvq1cpi2fvgmg8fhmos8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
